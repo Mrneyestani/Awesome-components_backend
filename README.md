@@ -1,0 +1,1 @@
+Effectuer un npm install, puis à exécuter npm run start
